@@ -1,1 +1,1 @@
-This is initial readme
+first project for Android Basics course
